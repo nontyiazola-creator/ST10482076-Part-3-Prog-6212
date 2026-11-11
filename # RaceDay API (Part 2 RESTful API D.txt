@@ -1,8 +1,8 @@
-# RaceDay API (Part 2: RESTful API Development)
+# RaceDay API (Part 3: RESTful API Development)
 
 A RESTful API for managing running, walking and cycling events, built with ASP.NET Core Web API (.NET 8), Entity Framework Core (Code-First) and SQL Server. It is the backend for the RaceDay system and follows the endpoint plan and ERD from Part 1.
 
-**Demo video:** [PASTE UNLISTED YOUTUBE LINK HERE]
+**Demo video:** [https://youtu.be/jRaPyssdfYc?si=g4l6U4M0LIOvGy8c]
 
 ## Technologies
 
